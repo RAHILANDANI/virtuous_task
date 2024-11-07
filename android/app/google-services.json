@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883171806015",
+    "project_id": "virtuous-task",
+    "storage_bucket": "virtuous-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883171806015:android:841923d4bcb2558731618a",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFerFRi6ATBAAoPfqRDUTG21adPYiGLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
